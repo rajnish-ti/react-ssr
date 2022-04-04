@@ -39,4 +39,4 @@ app.get("*", async (req, res) => {
   });
 });
 
-app.listen(3006, () => console.log("Listening on localhost:3005"));
+app.listen(3006, () => console.log("Listening on localhost:3006"));
